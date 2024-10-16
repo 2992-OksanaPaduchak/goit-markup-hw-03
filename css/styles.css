@@ -31,7 +31,7 @@ a {
   margin: 0 auto;
 }
 
-.img {
+img {
   display: block;
 }
 
@@ -216,7 +216,7 @@ a {
   margin-bottom: 72px;
 }
 
-.teams-item:first-child {
+.teams-item: {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
   border-top-right-radius: 4px;
